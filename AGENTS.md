@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the public financial dashboard data-driven through typed local data boundaries, so a future cloud connection can replace demo data without changing the presentation.
